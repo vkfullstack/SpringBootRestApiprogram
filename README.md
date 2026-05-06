@@ -155,7 +155,7 @@ src/main/java/com/example/usermanagement
 
 ### 🔹 Update User
 
-![Update User](screenshots/update-user.png)
+![Update User](https://github.com/vkfullstack/SpringBootRestApiprogram/blob/main/Screenshot%202026-05-04%20194937.png?raw=true)
 
 ### 🔹 Delete User
 
