@@ -159,7 +159,7 @@ src/main/java/com/example/usermanagement
 
 ### 🔹 Delete User
 
-![Delete User](screenshots/delete-user.png)
+![Delete User](https://github.com/vkfullstack/SpringBootRestApiprogram/blob/main/Screenshot%202026-05-04%20194949.png?raw=true)
 
 ---
 
