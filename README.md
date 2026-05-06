@@ -151,7 +151,7 @@ src/main/java/com/example/usermanagement
 
 ### 🔹 Get Users
 
-![Get Users](screenshots/get-users.png)
+![Get Users](https://github.com/vkfullstack/SpringBootRestApiprogram/blob/main/Screenshot%202026-05-04%20194926.png?raw=true)
 
 ### 🔹 Update User
 
