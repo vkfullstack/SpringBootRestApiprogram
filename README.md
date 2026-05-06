@@ -147,7 +147,7 @@ src/main/java/com/example/usermanagement
 
 ### 🔹 Create User (Postman)
 
-![Create User](screenshots/create-user.png)
+![Create User](https://github.com/vkfullstack/SpringBootRestApiprogram/blob/main/Screenshot%202026-05-04%20194905.png?raw=true)
 
 ### 🔹 Get Users
 
